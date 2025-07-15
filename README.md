@@ -24,8 +24,3 @@ Always building, learning, and simplifying along the way.
 ---
 [![](https://visitcount.itsvg.in/api?id=aditiids&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 🎧 Now Playing on Spotify
-
-[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
