@@ -1,11 +1,13 @@
-## Hi, I'm Aditi! 👾  
+# Hi, I’m Aditi  
 
-🎓 CS (AI & DS) Student @ MIT-WPU <br>
-🎨 UI/UX enthusiast & frontend developer  <br>
-🌌 Aspiring to contribute to the field of astronomy  <br>
-🛠️ Exploring backend tech — making magic happen behind the scenes  <br>
+CS student specializing in **AI & Data Science** — turning data into decisions and code into experiences.  
+I design interfaces that are **intuitive, accessible, and purposeful**.  
+Frontend is my playground, backend is my current experiment.  
+Also, mildly obsessed with **space** and everything that lives beyond the sky.  
 
-Let’s connect and create something amazing! 🚀  
+Always building, learning, and simplifying along the way.  
+
+> Let’s connect and build something meaningful.
 
 
 
